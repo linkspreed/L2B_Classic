@@ -1,6 +1,6 @@
-# <img align="left" alt="Linkspreed General" width="200px" src="https://laas.ml/assets/img/logos/logo/bulkit-core.svg" draggable="false" /> ([Click to visit LS 🚀](https://laas.ml/))([Log 🚀](https://github.com/linkspreed/LaaS/blob/main/log.md))
+# <img align="left" alt="L2B" width="200px" src="https://laas.linkspreed.com/assets/img/logos/logo/bulkit-core.svg" draggable="false" /> ([Click to visit L2B 🚀](https://l2b.linkspreed.com/))([Log 🚀](https://github.com/linkspreed/L2B_Classic/blob/main/log.md))
 
-Here you will find all the important information about LaaS (Linkspreed-as-a-Service) 🧡 as a global collection of SaaS tools, designed to help startups and developers as well as individual users to shape the future. 
+L2B Classic: The business software that's 💯 for all your business needs. 📈 Manage projects, 👨‍💻 employees, and 🤝 customers with ease. A must-have for startups, businesses, and freelancers. 🔥
 
 ## **[LOG 🧡](https://github.com/linkspreed/LaaS/blob/main/log.md)** **Check out the full Log of LaaS solutions :)**
 
