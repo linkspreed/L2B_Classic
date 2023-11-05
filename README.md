@@ -13,17 +13,17 @@ L2B Classic: The business software that's 💯 for all your business needs. 📈
 ## 📷 UI
 
 
-### Privacy focused web analytics
-<img align="center" alt="L2B Classic" width="3000px" src="https://github.com/linkspreed/L2B_Classic/blob/main/screenshots/1.PNG" draggable="false" />
-
-### Analytics
-<img align="center" alt="L2B Classic" width="3000px" src="https://github.com/linkspreed/L2B_Classic/blob/main/screenshots/2.PNG" draggable="false" />
-
-### Register now
-<img align="center" alt="L2B Classic" width="3000px" src="https://github.com/linkspreed/L2B_Classic/blob/main/screenshots/3.PNG" draggable="false" />
-
 ### Dashboard
-<img align="center" alt="L2B Classic" width="3000px" src="https://github.com/linkspreed/L2B_Classic/blob/main/screenshots/4.PNG" draggable="false" />
+<img align="center" alt="L2B Classic" width="3000px" src="https://github.com/linkspreed/L2B_Classic/assets/102324985/93123f41-038a-4804-83f5-fd4027a61c43" draggable="false" />
 
-### Add a new website
-<img align="center" alt="L2B Classic" width="3000px" src="https://github.com/linkspreed/L2B_Classic/blob/main/screenshots/5.PNG" draggable="false" />
+### Events
+<img align="center" alt="L2B Classic" width="3000px" src="https://github.com/linkspreed/L2B_Classic/assets/102324985/80db4dd9-2f5c-40ad-945f-b9de508c62be" draggable="false" />
+
+### Clients
+<img align="center" alt="L2B Classic" width="3000px" src="https://github.com/linkspreed/L2B_Classic/assets/102324985/ee6211d6-9bb0-4209-9b25-e1e0e65c306e" draggable="false" />
+
+### Projects
+<img align="center" alt="L2B Classic" width="3000px" src="https://github.com/linkspreed/L2B_Classic/assets/102324985/2ea874b3-05c9-42aa-a6ee-56cf8f86aaa6" draggable="false" />
+
+### Team
+<img align="center" alt="L2B Classic" width="3000px" src="https://github.com/linkspreed/L2B_Classic/assets/102324985/e57e388d-85a9-4b91-9a2c-227f5ac2cde9" draggable="false" />
