@@ -1,4 +1,4 @@
-# <img align="left" alt="L2B" width="200px" src="https://laas.linkspreed.com/assets/img/logos/logo/bulkit-core.svg" draggable="false" /> ([Click to visit L2B 🚀](https://l2b.linkspreed.com/))([Log 🚀](https://github.com/linkspreed/L2B_Classic/blob/main/log.md))
+# <img align="left" alt="L2B" width="200px" src="https://l2b.linkspreed.com/assets/img/port-img-31/logo.png" draggable="false" /> ([Click to visit L2B 🚀](https://l2b.linkspreed.com/))([Log 🚀](https://github.com/linkspreed/L2B_Classic/blob/main/log.md))
 
 L2B Classic: The business software that's 💯 for all your business needs. 📈 Manage projects, 👨‍💻 employees, and 🤝 customers with ease. A must-have for startups, businesses, and freelancers. 🔥
 
