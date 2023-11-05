@@ -2,7 +2,7 @@
 
 L2B Classic: The business software that's 💯 for all your business needs. 📈 Manage projects, 👨‍💻 employees, and 🤝 customers with ease. A must-have for startups, businesses, and freelancers. 🔥
 
-## **[LOG 🧡](https://github.com/linkspreed/LaaS/blob/main/log.md)** **Check out the full Log of LaaS solutions :)**
+## **[Calendly 🧡](https://calendly.com/linkspreed/30min)** **Book your demo appointment now 📅**
 
 <div align="center" width="50">
 
